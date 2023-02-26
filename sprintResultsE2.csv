@@ -1,0 +1,121 @@
+Year,Round,raceId,RaceName,sprintResultId,Position,Number,driverId,Driver,constructorId,Laps,Grid,Time,Status,Points
+2021,10,2021_10,British Grand Prix,Sprint_2021_10,1,33,max_verstappen,Max Verstappen,red_bull,17,2,25:38.426,Finished,3
+2021,10,2021_10,British Grand Prix,Sprint_2021_10,2,44,hamilton,Lewis Hamilton,mercedes,17,1,+1.430,Finished,2
+2021,10,2021_10,British Grand Prix,Sprint_2021_10,3,77,bottas,Valtteri Bottas,mercedes,17,3,+7.502,Finished,1
+2021,10,2021_10,British Grand Prix,Sprint_2021_10,4,16,leclerc,Charles Leclerc,ferrari,17,4,+11.278,Finished,0
+2021,10,2021_10,British Grand Prix,Sprint_2021_10,5,4,norris,Lando Norris,mclaren,17,6,+24.111,Finished,0
+2021,10,2021_10,British Grand Prix,Sprint_2021_10,6,3,ricciardo,Daniel Ricciardo,mclaren,17,7,+30.959,Finished,0
+2021,10,2021_10,British Grand Prix,Sprint_2021_10,7,14,alonso,Fernando Alonso,alpine,17,11,+43.527,Finished,0
+2021,10,2021_10,British Grand Prix,Sprint_2021_10,8,5,vettel,Sebastian Vettel,aston_martin,17,10,+44.439,Finished,0
+2021,10,2021_10,British Grand Prix,Sprint_2021_10,9,63,russell,George Russell,williams,17,8,+46.652,Finished,0
+2021,10,2021_10,British Grand Prix,Sprint_2021_10,10,31,ocon,Esteban Ocon,alpine,17,13,+47.395,Finished,0
+2021,10,2021_10,British Grand Prix,Sprint_2021_10,11,55,sainz,Carlos Sainz,ferrari,17,9,+47.798,Finished,0
+2021,10,2021_10,British Grand Prix,Sprint_2021_10,12,10,gasly,Pierre Gasly,alphatauri,17,12,+48.763,Finished,0
+2021,10,2021_10,British Grand Prix,Sprint_2021_10,13,7,raikkonen,Kimi Räikkönen,alfa,17,17,+50.677,Finished,0
+2021,10,2021_10,British Grand Prix,Sprint_2021_10,14,18,stroll,Lance Stroll,aston_martin,17,15,+52.179,Finished,0
+2021,10,2021_10,British Grand Prix,Sprint_2021_10,15,99,giovinazzi,Antonio Giovinazzi,alfa,17,14,+53.225,Finished,0
+2021,10,2021_10,British Grand Prix,Sprint_2021_10,16,22,tsunoda,Yuki Tsunoda,alphatauri,17,16,+53.567,Finished,0
+2021,10,2021_10,British Grand Prix,Sprint_2021_10,17,6,latifi,Nicholas Latifi,williams,17,18,+55.162,Finished,0
+2021,10,2021_10,British Grand Prix,Sprint_2021_10,18,47,mick_schumacher,Mick Schumacher,haas,17,19,+1:08.213,Finished,0
+2021,10,2021_10,British Grand Prix,Sprint_2021_10,19,9,mazepin,Nikita Mazepin,haas,17,20,+1:17.648,Finished,0
+2021,10,2021_10,British Grand Prix,Sprint_2021_10,20,11,perez,Sergio Pérez,red_bull,16,5,,Vibrations,0
+2021,14,2021_14,Italian Grand Prix,Sprint_2021_14,1,33,max_verstappen,Max Verstappen,red_bull,17,2,25:38.426,Finished,3
+2021,14,2021_14,Italian Grand Prix,Sprint_2021_14,2,44,hamilton,Lewis Hamilton,mercedes,17,1,+1.430,Finished,2
+2021,14,2021_14,Italian Grand Prix,Sprint_2021_14,3,77,bottas,Valtteri Bottas,mercedes,17,3,+7.502,Finished,1
+2021,14,2021_14,Italian Grand Prix,Sprint_2021_14,4,16,leclerc,Charles Leclerc,ferrari,17,4,+11.278,Finished,0
+2021,14,2021_14,Italian Grand Prix,Sprint_2021_14,5,4,norris,Lando Norris,mclaren,17,6,+24.111,Finished,0
+2021,14,2021_14,Italian Grand Prix,Sprint_2021_14,6,3,ricciardo,Daniel Ricciardo,mclaren,17,7,+30.959,Finished,0
+2021,14,2021_14,Italian Grand Prix,Sprint_2021_14,7,14,alonso,Fernando Alonso,alpine,17,11,+43.527,Finished,0
+2021,14,2021_14,Italian Grand Prix,Sprint_2021_14,8,5,vettel,Sebastian Vettel,aston_martin,17,10,+44.439,Finished,0
+2021,14,2021_14,Italian Grand Prix,Sprint_2021_14,9,63,russell,George Russell,williams,17,8,+46.652,Finished,0
+2021,14,2021_14,Italian Grand Prix,Sprint_2021_14,10,31,ocon,Esteban Ocon,alpine,17,13,+47.395,Finished,0
+2021,14,2021_14,Italian Grand Prix,Sprint_2021_14,11,55,sainz,Carlos Sainz,ferrari,17,9,+47.798,Finished,0
+2021,14,2021_14,Italian Grand Prix,Sprint_2021_14,12,10,gasly,Pierre Gasly,alphatauri,17,12,+48.763,Finished,0
+2021,14,2021_14,Italian Grand Prix,Sprint_2021_14,13,7,raikkonen,Kimi Räikkönen,alfa,17,17,+50.677,Finished,0
+2021,14,2021_14,Italian Grand Prix,Sprint_2021_14,14,18,stroll,Lance Stroll,aston_martin,17,15,+52.179,Finished,0
+2021,14,2021_14,Italian Grand Prix,Sprint_2021_14,15,99,giovinazzi,Antonio Giovinazzi,alfa,17,14,+53.225,Finished,0
+2021,14,2021_14,Italian Grand Prix,Sprint_2021_14,16,22,tsunoda,Yuki Tsunoda,alphatauri,17,16,+53.567,Finished,0
+2021,14,2021_14,Italian Grand Prix,Sprint_2021_14,17,6,latifi,Nicholas Latifi,williams,17,18,+55.162,Finished,0
+2021,14,2021_14,Italian Grand Prix,Sprint_2021_14,18,47,mick_schumacher,Mick Schumacher,haas,17,19,+1:08.213,Finished,0
+2021,14,2021_14,Italian Grand Prix,Sprint_2021_14,19,9,mazepin,Nikita Mazepin,haas,17,20,+1:17.648,Finished,0
+2021,14,2021_14,Italian Grand Prix,Sprint_2021_14,20,11,perez,Sergio Pérez,red_bull,16,5,,Vibrations,0
+2021,19,2021_19,São Paulo Grand Prix,Sprint_2021_19,1,33,max_verstappen,Max Verstappen,red_bull,17,2,25:38.426,Finished,3
+2021,19,2021_19,São Paulo Grand Prix,Sprint_2021_19,2,44,hamilton,Lewis Hamilton,mercedes,17,1,+1.430,Finished,2
+2021,19,2021_19,São Paulo Grand Prix,Sprint_2021_19,3,77,bottas,Valtteri Bottas,mercedes,17,3,+7.502,Finished,1
+2021,19,2021_19,São Paulo Grand Prix,Sprint_2021_19,4,16,leclerc,Charles Leclerc,ferrari,17,4,+11.278,Finished,0
+2021,19,2021_19,São Paulo Grand Prix,Sprint_2021_19,5,4,norris,Lando Norris,mclaren,17,6,+24.111,Finished,0
+2021,19,2021_19,São Paulo Grand Prix,Sprint_2021_19,6,3,ricciardo,Daniel Ricciardo,mclaren,17,7,+30.959,Finished,0
+2021,19,2021_19,São Paulo Grand Prix,Sprint_2021_19,7,14,alonso,Fernando Alonso,alpine,17,11,+43.527,Finished,0
+2021,19,2021_19,São Paulo Grand Prix,Sprint_2021_19,8,5,vettel,Sebastian Vettel,aston_martin,17,10,+44.439,Finished,0
+2021,19,2021_19,São Paulo Grand Prix,Sprint_2021_19,9,63,russell,George Russell,williams,17,8,+46.652,Finished,0
+2021,19,2021_19,São Paulo Grand Prix,Sprint_2021_19,10,31,ocon,Esteban Ocon,alpine,17,13,+47.395,Finished,0
+2021,19,2021_19,São Paulo Grand Prix,Sprint_2021_19,11,55,sainz,Carlos Sainz,ferrari,17,9,+47.798,Finished,0
+2021,19,2021_19,São Paulo Grand Prix,Sprint_2021_19,12,10,gasly,Pierre Gasly,alphatauri,17,12,+48.763,Finished,0
+2021,19,2021_19,São Paulo Grand Prix,Sprint_2021_19,13,7,raikkonen,Kimi Räikkönen,alfa,17,17,+50.677,Finished,0
+2021,19,2021_19,São Paulo Grand Prix,Sprint_2021_19,14,18,stroll,Lance Stroll,aston_martin,17,15,+52.179,Finished,0
+2021,19,2021_19,São Paulo Grand Prix,Sprint_2021_19,15,99,giovinazzi,Antonio Giovinazzi,alfa,17,14,+53.225,Finished,0
+2021,19,2021_19,São Paulo Grand Prix,Sprint_2021_19,16,22,tsunoda,Yuki Tsunoda,alphatauri,17,16,+53.567,Finished,0
+2021,19,2021_19,São Paulo Grand Prix,Sprint_2021_19,17,6,latifi,Nicholas Latifi,williams,17,18,+55.162,Finished,0
+2021,19,2021_19,São Paulo Grand Prix,Sprint_2021_19,18,47,mick_schumacher,Mick Schumacher,haas,17,19,+1:08.213,Finished,0
+2021,19,2021_19,São Paulo Grand Prix,Sprint_2021_19,19,9,mazepin,Nikita Mazepin,haas,17,20,+1:17.648,Finished,0
+2021,19,2021_19,São Paulo Grand Prix,Sprint_2021_19,20,11,perez,Sergio Pérez,red_bull,16,5,,Vibrations,0
+2022,4,2022_4,Emilia Romagna Grand Prix,Sprint_2022_4,1,33,max_verstappen,Max Verstappen,red_bull,17,2,25:38.426,Finished,3
+2022,4,2022_4,Emilia Romagna Grand Prix,Sprint_2022_4,2,44,hamilton,Lewis Hamilton,mercedes,17,1,+1.430,Finished,2
+2022,4,2022_4,Emilia Romagna Grand Prix,Sprint_2022_4,3,77,bottas,Valtteri Bottas,mercedes,17,3,+7.502,Finished,1
+2022,4,2022_4,Emilia Romagna Grand Prix,Sprint_2022_4,4,16,leclerc,Charles Leclerc,ferrari,17,4,+11.278,Finished,0
+2022,4,2022_4,Emilia Romagna Grand Prix,Sprint_2022_4,5,4,norris,Lando Norris,mclaren,17,6,+24.111,Finished,0
+2022,4,2022_4,Emilia Romagna Grand Prix,Sprint_2022_4,6,3,ricciardo,Daniel Ricciardo,mclaren,17,7,+30.959,Finished,0
+2022,4,2022_4,Emilia Romagna Grand Prix,Sprint_2022_4,7,14,alonso,Fernando Alonso,alpine,17,11,+43.527,Finished,0
+2022,4,2022_4,Emilia Romagna Grand Prix,Sprint_2022_4,8,5,vettel,Sebastian Vettel,aston_martin,17,10,+44.439,Finished,0
+2022,4,2022_4,Emilia Romagna Grand Prix,Sprint_2022_4,9,63,russell,George Russell,williams,17,8,+46.652,Finished,0
+2022,4,2022_4,Emilia Romagna Grand Prix,Sprint_2022_4,10,31,ocon,Esteban Ocon,alpine,17,13,+47.395,Finished,0
+2022,4,2022_4,Emilia Romagna Grand Prix,Sprint_2022_4,11,55,sainz,Carlos Sainz,ferrari,17,9,+47.798,Finished,0
+2022,4,2022_4,Emilia Romagna Grand Prix,Sprint_2022_4,12,10,gasly,Pierre Gasly,alphatauri,17,12,+48.763,Finished,0
+2022,4,2022_4,Emilia Romagna Grand Prix,Sprint_2022_4,13,7,raikkonen,Kimi Räikkönen,alfa,17,17,+50.677,Finished,0
+2022,4,2022_4,Emilia Romagna Grand Prix,Sprint_2022_4,14,18,stroll,Lance Stroll,aston_martin,17,15,+52.179,Finished,0
+2022,4,2022_4,Emilia Romagna Grand Prix,Sprint_2022_4,15,99,giovinazzi,Antonio Giovinazzi,alfa,17,14,+53.225,Finished,0
+2022,4,2022_4,Emilia Romagna Grand Prix,Sprint_2022_4,16,22,tsunoda,Yuki Tsunoda,alphatauri,17,16,+53.567,Finished,0
+2022,4,2022_4,Emilia Romagna Grand Prix,Sprint_2022_4,17,6,latifi,Nicholas Latifi,williams,17,18,+55.162,Finished,0
+2022,4,2022_4,Emilia Romagna Grand Prix,Sprint_2022_4,18,47,mick_schumacher,Mick Schumacher,haas,17,19,+1:08.213,Finished,0
+2022,4,2022_4,Emilia Romagna Grand Prix,Sprint_2022_4,19,9,mazepin,Nikita Mazepin,haas,17,20,+1:17.648,Finished,0
+2022,4,2022_4,Emilia Romagna Grand Prix,Sprint_2022_4,20,11,perez,Sergio Pérez,red_bull,16,5,,Vibrations,0
+2022,11,2022_11,Austrian Grand Prix,Sprint_2022_11,1,33,max_verstappen,Max Verstappen,red_bull,17,2,25:38.426,Finished,3
+2022,11,2022_11,Austrian Grand Prix,Sprint_2022_11,2,44,hamilton,Lewis Hamilton,mercedes,17,1,+1.430,Finished,2
+2022,11,2022_11,Austrian Grand Prix,Sprint_2022_11,3,77,bottas,Valtteri Bottas,mercedes,17,3,+7.502,Finished,1
+2022,11,2022_11,Austrian Grand Prix,Sprint_2022_11,4,16,leclerc,Charles Leclerc,ferrari,17,4,+11.278,Finished,0
+2022,11,2022_11,Austrian Grand Prix,Sprint_2022_11,5,4,norris,Lando Norris,mclaren,17,6,+24.111,Finished,0
+2022,11,2022_11,Austrian Grand Prix,Sprint_2022_11,6,3,ricciardo,Daniel Ricciardo,mclaren,17,7,+30.959,Finished,0
+2022,11,2022_11,Austrian Grand Prix,Sprint_2022_11,7,14,alonso,Fernando Alonso,alpine,17,11,+43.527,Finished,0
+2022,11,2022_11,Austrian Grand Prix,Sprint_2022_11,8,5,vettel,Sebastian Vettel,aston_martin,17,10,+44.439,Finished,0
+2022,11,2022_11,Austrian Grand Prix,Sprint_2022_11,9,63,russell,George Russell,williams,17,8,+46.652,Finished,0
+2022,11,2022_11,Austrian Grand Prix,Sprint_2022_11,10,31,ocon,Esteban Ocon,alpine,17,13,+47.395,Finished,0
+2022,11,2022_11,Austrian Grand Prix,Sprint_2022_11,11,55,sainz,Carlos Sainz,ferrari,17,9,+47.798,Finished,0
+2022,11,2022_11,Austrian Grand Prix,Sprint_2022_11,12,10,gasly,Pierre Gasly,alphatauri,17,12,+48.763,Finished,0
+2022,11,2022_11,Austrian Grand Prix,Sprint_2022_11,13,7,raikkonen,Kimi Räikkönen,alfa,17,17,+50.677,Finished,0
+2022,11,2022_11,Austrian Grand Prix,Sprint_2022_11,14,18,stroll,Lance Stroll,aston_martin,17,15,+52.179,Finished,0
+2022,11,2022_11,Austrian Grand Prix,Sprint_2022_11,15,99,giovinazzi,Antonio Giovinazzi,alfa,17,14,+53.225,Finished,0
+2022,11,2022_11,Austrian Grand Prix,Sprint_2022_11,16,22,tsunoda,Yuki Tsunoda,alphatauri,17,16,+53.567,Finished,0
+2022,11,2022_11,Austrian Grand Prix,Sprint_2022_11,17,6,latifi,Nicholas Latifi,williams,17,18,+55.162,Finished,0
+2022,11,2022_11,Austrian Grand Prix,Sprint_2022_11,18,47,mick_schumacher,Mick Schumacher,haas,17,19,+1:08.213,Finished,0
+2022,11,2022_11,Austrian Grand Prix,Sprint_2022_11,19,9,mazepin,Nikita Mazepin,haas,17,20,+1:17.648,Finished,0
+2022,11,2022_11,Austrian Grand Prix,Sprint_2022_11,20,11,perez,Sergio Pérez,red_bull,16,5,,Vibrations,0
+2022,21,2022_21,Brazilian Grand Prix,Sprint_2022_21,1,33,max_verstappen,Max Verstappen,red_bull,17,2,25:38.426,Finished,3
+2022,21,2022_21,Brazilian Grand Prix,Sprint_2022_21,2,44,hamilton,Lewis Hamilton,mercedes,17,1,+1.430,Finished,2
+2022,21,2022_21,Brazilian Grand Prix,Sprint_2022_21,3,77,bottas,Valtteri Bottas,mercedes,17,3,+7.502,Finished,1
+2022,21,2022_21,Brazilian Grand Prix,Sprint_2022_21,4,16,leclerc,Charles Leclerc,ferrari,17,4,+11.278,Finished,0
+2022,21,2022_21,Brazilian Grand Prix,Sprint_2022_21,5,4,norris,Lando Norris,mclaren,17,6,+24.111,Finished,0
+2022,21,2022_21,Brazilian Grand Prix,Sprint_2022_21,6,3,ricciardo,Daniel Ricciardo,mclaren,17,7,+30.959,Finished,0
+2022,21,2022_21,Brazilian Grand Prix,Sprint_2022_21,7,14,alonso,Fernando Alonso,alpine,17,11,+43.527,Finished,0
+2022,21,2022_21,Brazilian Grand Prix,Sprint_2022_21,8,5,vettel,Sebastian Vettel,aston_martin,17,10,+44.439,Finished,0
+2022,21,2022_21,Brazilian Grand Prix,Sprint_2022_21,9,63,russell,George Russell,williams,17,8,+46.652,Finished,0
+2022,21,2022_21,Brazilian Grand Prix,Sprint_2022_21,10,31,ocon,Esteban Ocon,alpine,17,13,+47.395,Finished,0
+2022,21,2022_21,Brazilian Grand Prix,Sprint_2022_21,11,55,sainz,Carlos Sainz,ferrari,17,9,+47.798,Finished,0
+2022,21,2022_21,Brazilian Grand Prix,Sprint_2022_21,12,10,gasly,Pierre Gasly,alphatauri,17,12,+48.763,Finished,0
+2022,21,2022_21,Brazilian Grand Prix,Sprint_2022_21,13,7,raikkonen,Kimi Räikkönen,alfa,17,17,+50.677,Finished,0
+2022,21,2022_21,Brazilian Grand Prix,Sprint_2022_21,14,18,stroll,Lance Stroll,aston_martin,17,15,+52.179,Finished,0
+2022,21,2022_21,Brazilian Grand Prix,Sprint_2022_21,15,99,giovinazzi,Antonio Giovinazzi,alfa,17,14,+53.225,Finished,0
+2022,21,2022_21,Brazilian Grand Prix,Sprint_2022_21,16,22,tsunoda,Yuki Tsunoda,alphatauri,17,16,+53.567,Finished,0
+2022,21,2022_21,Brazilian Grand Prix,Sprint_2022_21,17,6,latifi,Nicholas Latifi,williams,17,18,+55.162,Finished,0
+2022,21,2022_21,Brazilian Grand Prix,Sprint_2022_21,18,47,mick_schumacher,Mick Schumacher,haas,17,19,+1:08.213,Finished,0
+2022,21,2022_21,Brazilian Grand Prix,Sprint_2022_21,19,9,mazepin,Nikita Mazepin,haas,17,20,+1:17.648,Finished,0
+2022,21,2022_21,Brazilian Grand Prix,Sprint_2022_21,20,11,perez,Sergio Pérez,red_bull,16,5,,Vibrations,0
