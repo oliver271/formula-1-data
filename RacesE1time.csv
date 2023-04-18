@@ -1,0 +1,283 @@
+season,round,raceid,time,raceName,circuitId,latitud,longitud,country,date,url
+2010,1,2010_1,12:00:00Z,Bahrain Grand Prix,bahrain,26.0325,50.5106,Bahrain,2010-03-14,http://en.wikipedia.org/wiki/2010_Bahrain_Grand_Prix
+2010,2,2010_2,06:00:00Z,Australian Grand Prix,albert_park,-37.8497,144.968,Australia,2010-03-28,http://en.wikipedia.org/wiki/2010_Australian_Grand_Prix
+2010,3,2010_3,08:00:00Z,Malaysian Grand Prix,sepang,2.76083,101.738,Malaysia,2010-04-04,http://en.wikipedia.org/wiki/2010_Malaysian_Grand_Prix
+2010,4,2010_4,06:00:00Z,Chinese Grand Prix,shanghai,31.3389,121.22,China,2010-04-18,http://en.wikipedia.org/wiki/2010_Chinese_Grand_Prix
+2010,5,2010_5,12:00:00Z,Spanish Grand Prix,catalunya,41.57,2.26111,Spain,2010-05-09,http://en.wikipedia.org/wiki/2010_Spanish_Grand_Prix
+2010,6,2010_6,12:00:00Z,Monaco Grand Prix,monaco,43.7347,7.42056,Monaco,2010-05-16,http://en.wikipedia.org/wiki/2010_Monaco_Grand_Prix
+2010,7,2010_7,11:00:00Z,Turkish Grand Prix,istanbul,40.9517,29.405,Turkey,2010-05-30,http://en.wikipedia.org/wiki/2010_Turkish_Grand_Prix
+2010,8,2010_8,16:00:00Z,Canadian Grand Prix,villeneuve,45.5,-73.5228,Canada,2010-06-13,http://en.wikipedia.org/wiki/2010_Canadian_Grand_Prix
+2010,9,2010_9,12:00:00Z,European Grand Prix,valencia,39.4589,-0.331667,Spain,2010-06-27,http://en.wikipedia.org/wiki/2010_European_Grand_Prix
+2010,10,2010_10,12:00:00Z,British Grand Prix,silverstone,52.0786,-1.01694,UK,2010-07-11,http://en.wikipedia.org/wiki/2010_British_Grand_Prix
+2010,11,2010_11,12:00:00Z,German Grand Prix,hockenheimring,49.3278,8.56583,Germany,2010-07-25,http://en.wikipedia.org/wiki/2010_German_Grand_Prix
+2010,12,2010_12,12:00:00Z,Hungarian Grand Prix,hungaroring,47.5789,19.2486,Hungary,2010-08-01,http://en.wikipedia.org/wiki/2010_Hungarian_Grand_Prix
+2010,13,2010_13,12:00:00Z,Belgian Grand Prix,spa,50.4372,5.97139,Belgium,2010-08-29,http://en.wikipedia.org/wiki/2010_Belgian_Grand_Prix
+2010,14,2010_14,12:00:00Z,Italian Grand Prix,monza,45.6156,9.28111,Italy,2010-09-12,http://en.wikipedia.org/wiki/2010_Italian_Grand_Prix
+2010,15,2010_15,12:00:00Z,Singapore Grand Prix,marina_bay,1.2914,103.864,Singapore,2010-09-26,http://en.wikipedia.org/wiki/2010_Singapore_Grand_Prix
+2010,16,2010_16,06:00:00Z,Japanese Grand Prix,suzuka,34.8431,136.541,Japan,2010-10-10,http://en.wikipedia.org/wiki/2010_Japanese_Grand_Prix
+2010,17,2010_17,05:00:00Z,Korean Grand Prix,yeongam,34.7333,126.417,Korea,2010-10-24,http://en.wikipedia.org/wiki/2010_Korean_Grand_Prix
+2010,18,2010_18,16:00:00Z,Brazilian Grand Prix,interlagos,-23.7036,-46.6997,Brazil,2010-11-07,http://en.wikipedia.org/wiki/2010_Brazilian_Grand_Prix
+2010,19,2010_19,13:00:00Z,Abu Dhabi Grand Prix,yas_marina,24.4672,54.6031,UAE,2010-11-14,http://en.wikipedia.org/wiki/2010_Abu_Dhabi_Grand_Prix
+2011,1,2011_1,06:00:00Z,Australian Grand Prix,albert_park,-37.8497,144.968,Australia,2011-03-27,http://en.wikipedia.org/wiki/2011_Australian_Grand_Prix
+2011,2,2011_2,08:00:00Z,Malaysian Grand Prix,sepang,2.76083,101.738,Malaysia,2011-04-10,http://en.wikipedia.org/wiki/2011_Malaysian_Grand_Prix
+2011,3,2011_3,07:00:00Z,Chinese Grand Prix,shanghai,31.3389,121.22,China,2011-04-17,http://en.wikipedia.org/wiki/2011_Chinese_Grand_Prix
+2011,4,2011_4,12:00:00Z,Turkish Grand Prix,istanbul,40.9517,29.405,Turkey,2011-05-08,http://en.wikipedia.org/wiki/2011_Turkish_Grand_Prix
+2011,5,2011_5,12:00:00Z,Spanish Grand Prix,catalunya,41.57,2.26111,Spain,2011-05-22,http://en.wikipedia.org/wiki/2011_Spanish_Grand_Prix
+2011,6,2011_6,12:00:00Z,Monaco Grand Prix,monaco,43.7347,7.42056,Monaco,2011-05-29,http://en.wikipedia.org/wiki/2011_Monaco_Grand_Prix
+2011,7,2011_7,17:00:00Z,Canadian Grand Prix,villeneuve,45.5,-73.5228,Canada,2011-06-12,http://en.wikipedia.org/wiki/2011_Canadian_Grand_Prix
+2011,8,2011_8,12:00:00Z,European Grand Prix,valencia,39.4589,-0.331667,Spain,2011-06-26,http://en.wikipedia.org/wiki/2011_European_Grand_Prix
+2011,9,2011_9,12:00:00Z,British Grand Prix,silverstone,52.0786,-1.01694,UK,2011-07-10,http://en.wikipedia.org/wiki/2011_British_Grand_Prix
+2011,10,2011_10,12:00:00Z,German Grand Prix,nurburgring,50.3356,6.9475,Germany,2011-07-24,http://en.wikipedia.org/wiki/2011_German_Grand_Prix
+2011,11,2011_11,12:00:00Z,Hungarian Grand Prix,hungaroring,47.5789,19.2486,Hungary,2011-07-31,http://en.wikipedia.org/wiki/2011_Hungarian_Grand_Prix
+2011,12,2011_12,12:00:00Z,Belgian Grand Prix,spa,50.4372,5.97139,Belgium,2011-08-28,http://en.wikipedia.org/wiki/2011_Belgian_Grand_Prix
+2011,13,2011_13,12:00:00Z,Italian Grand Prix,monza,45.6156,9.28111,Italy,2011-09-11,http://en.wikipedia.org/wiki/2011_Italian_Grand_Prix
+2011,14,2011_14,12:00:00Z,Singapore Grand Prix,marina_bay,1.2914,103.864,Singapore,2011-09-25,http://en.wikipedia.org/wiki/2011_Singapore_Grand_Prix
+2011,15,2011_15,06:00:00Z,Japanese Grand Prix,suzuka,34.8431,136.541,Japan,2011-10-09,http://en.wikipedia.org/wiki/2011_Japanese_Grand_Prix
+2011,16,2011_16,06:00:00Z,Korean Grand Prix,yeongam,34.7333,126.417,Korea,2011-10-16,http://en.wikipedia.org/wiki/2011_Korean_Grand_Prix
+2011,17,2011_17,09:30:00Z,Indian Grand Prix,buddh,28.3487,77.5331,India,2011-10-30,http://en.wikipedia.org/wiki/2011_Indian_Grand_Prix
+2011,18,2011_18,13:00:00Z,Abu Dhabi Grand Prix,yas_marina,24.4672,54.6031,UAE,2011-11-13,http://en.wikipedia.org/wiki/2011_Abu_Dhabi_Grand_Prix
+2011,19,2011_19,16:00:00Z,Brazilian Grand Prix,interlagos,-23.7036,-46.6997,Brazil,2011-11-27,http://en.wikipedia.org/wiki/2011_Brazilian_Grand_Prix
+2012,1,2012_1,06:00:00Z,Australian Grand Prix,albert_park,-37.8497,144.968,Australia,2012-03-18,http://en.wikipedia.org/wiki/2012_Australian_Grand_Prix
+2012,2,2012_2,08:00:00Z,Malaysian Grand Prix,sepang,2.76083,101.738,Malaysia,2012-03-25,http://en.wikipedia.org/wiki/2012_Malaysian_Grand_Prix
+2012,3,2012_3,07:00:00Z,Chinese Grand Prix,shanghai,31.3389,121.22,China,2012-04-15,http://en.wikipedia.org/wiki/2012_Chinese_Grand_Prix
+2012,4,2012_4,12:00:00Z,Bahrain Grand Prix,bahrain,26.0325,50.5106,Bahrain,2012-04-22,http://en.wikipedia.org/wiki/2012_Bahrain_Grand_Prix
+2012,5,2012_5,12:00:00Z,Spanish Grand Prix,catalunya,41.57,2.26111,Spain,2012-05-13,http://en.wikipedia.org/wiki/2012_Spanish_Grand_Prix
+2012,6,2012_6,12:00:00Z,Monaco Grand Prix,monaco,43.7347,7.42056,Monaco,2012-05-27,http://en.wikipedia.org/wiki/2012_Monaco_Grand_Prix
+2012,7,2012_7,18:00:00Z,Canadian Grand Prix,villeneuve,45.5,-73.5228,Canada,2012-06-10,http://en.wikipedia.org/wiki/2012_Canadian_Grand_Prix
+2012,8,2012_8,12:00:00Z,European Grand Prix,valencia,39.4589,-0.331667,Spain,2012-06-24,http://en.wikipedia.org/wiki/2012_European_Grand_Prix
+2012,9,2012_9,12:00:00Z,British Grand Prix,silverstone,52.0786,-1.01694,UK,2012-07-08,http://en.wikipedia.org/wiki/2012_British_Grand_Prix
+2012,10,2012_10,12:00:00Z,German Grand Prix,hockenheimring,49.3278,8.56583,Germany,2012-07-22,http://en.wikipedia.org/wiki/2012_German_Grand_Prix
+2012,11,2012_11,12:00:00Z,Hungarian Grand Prix,hungaroring,47.5789,19.2486,Hungary,2012-07-29,http://en.wikipedia.org/wiki/2012_Hungarian_Grand_Prix
+2012,12,2012_12,12:00:00Z,Belgian Grand Prix,spa,50.4372,5.97139,Belgium,2012-09-02,http://en.wikipedia.org/wiki/2012_Belgian_Grand_Prix
+2012,13,2012_13,12:00:00Z,Italian Grand Prix,monza,45.6156,9.28111,Italy,2012-09-09,http://en.wikipedia.org/wiki/2012_Italian_Grand_Prix
+2012,14,2012_14,12:00:00Z,Singapore Grand Prix,marina_bay,1.2914,103.864,Singapore,2012-09-23,http://en.wikipedia.org/wiki/2012_Singapore_Grand_Prix
+2012,15,2012_15,06:00:00Z,Japanese Grand Prix,suzuka,34.8431,136.541,Japan,2012-10-07,http://en.wikipedia.org/wiki/2012_Japanese_Grand_Prix
+2012,16,2012_16,06:00:00Z,Korean Grand Prix,yeongam,34.7333,126.417,Korea,2012-10-14,http://en.wikipedia.org/wiki/2012_Korean_Grand_Prix
+2012,17,2012_17,09:30:00Z,Indian Grand Prix,buddh,28.3487,77.5331,India,2012-10-28,http://en.wikipedia.org/wiki/2012_Indian_Grand_Prix
+2012,18,2012_18,13:00:00Z,Abu Dhabi Grand Prix,yas_marina,24.4672,54.6031,UAE,2012-11-04,http://en.wikipedia.org/wiki/2012_Abu_Dhabi_Grand_Prix
+2012,19,2012_19,19:00:00Z,United States Grand Prix,americas,30.1328,-97.6411,USA,2012-11-18,http://en.wikipedia.org/wiki/2012_United_States_Grand_Prix
+2012,20,2012_20,16:00:00Z,Brazilian Grand Prix,interlagos,-23.7036,-46.6997,Brazil,2012-11-25,http://en.wikipedia.org/wiki/2012_Brazilian_Grand_Prix
+2013,1,2013_1,06:00:00Z,Australian Grand Prix,albert_park,-37.8497,144.968,Australia,2013-03-17,http://en.wikipedia.org/wiki/2013_Australian_Grand_Prix
+2013,2,2013_2,08:00:00Z,Malaysian Grand Prix,sepang,2.76083,101.738,Malaysia,2013-03-24,http://en.wikipedia.org/wiki/2013_Malaysian_Grand_Prix
+2013,3,2013_3,07:00:00Z,Chinese Grand Prix,shanghai,31.3389,121.22,China,2013-04-14,http://en.wikipedia.org/wiki/2013_Chinese_Grand_Prix
+2013,4,2013_4,12:00:00Z,Bahrain Grand Prix,bahrain,26.0325,50.5106,Bahrain,2013-04-21,http://en.wikipedia.org/wiki/2013_Bahrain_Grand_Prix
+2013,5,2013_5,12:00:00Z,Spanish Grand Prix,catalunya,41.57,2.26111,Spain,2013-05-12,http://en.wikipedia.org/wiki/2013_Spanish_Grand_Prix
+2013,6,2013_6,12:00:00Z,Monaco Grand Prix,monaco,43.7347,7.42056,Monaco,2013-05-26,http://en.wikipedia.org/wiki/2013_Monaco_Grand_Prix
+2013,7,2013_7,18:00:00Z,Canadian Grand Prix,villeneuve,45.5,-73.5228,Canada,2013-06-09,http://en.wikipedia.org/wiki/2013_Canadian_Grand_Prix
+2013,8,2013_8,12:00:00Z,British Grand Prix,silverstone,52.0786,-1.01694,UK,2013-06-30,http://en.wikipedia.org/wiki/2013_British_Grand_Prix
+2013,9,2013_9,12:00:00Z,German Grand Prix,nurburgring,50.3356,6.9475,Germany,2013-07-07,http://en.wikipedia.org/wiki/2013_German_Grand_Prix
+2013,10,2013_10,12:00:00Z,Hungarian Grand Prix,hungaroring,47.5789,19.2486,Hungary,2013-07-28,http://en.wikipedia.org/wiki/2013_Hungarian_Grand_Prix
+2013,11,2013_11,12:00:00Z,Belgian Grand Prix,spa,50.4372,5.97139,Belgium,2013-08-25,http://en.wikipedia.org/wiki/2013_Belgian_Grand_Prix
+2013,12,2013_12,12:00:00Z,Italian Grand Prix,monza,45.6156,9.28111,Italy,2013-09-08,http://en.wikipedia.org/wiki/2013_Italian_Grand_Prix
+2013,13,2013_13,12:00:00Z,Singapore Grand Prix,marina_bay,1.2914,103.864,Singapore,2013-09-22,http://en.wikipedia.org/wiki/2013_Singapore_Grand_Prix
+2013,14,2013_14,06:00:00Z,Korean Grand Prix,yeongam,34.7333,126.417,Korea,2013-10-06,http://en.wikipedia.org/wiki/2013_Korean_Grand_Prix
+2013,15,2013_15,06:00:00Z,Japanese Grand Prix,suzuka,34.8431,136.541,Japan,2013-10-13,http://en.wikipedia.org/wiki/2013_Japanese_Grand_Prix
+2013,16,2013_16,09:30:00Z,Indian Grand Prix,buddh,28.3487,77.5331,India,2013-10-27,http://en.wikipedia.org/wiki/2013_Indian_Grand_Prix
+2013,17,2013_17,13:00:00Z,Abu Dhabi Grand Prix,yas_marina,24.4672,54.6031,UAE,2013-11-03,http://en.wikipedia.org/wiki/2013_Abu_Dhabi_Grand_Prix
+2013,18,2013_18,19:00:00Z,United States Grand Prix,americas,30.1328,-97.6411,USA,2013-11-17,http://en.wikipedia.org/wiki/2013_United_States_Grand_Prix
+2013,19,2013_19,16:00:00Z,Brazilian Grand Prix,interlagos,-23.7036,-46.6997,Brazil,2013-11-24,http://en.wikipedia.org/wiki/2013_Brazilian_Grand_Prix
+2014,1,2014_1,06:00:00Z,Australian Grand Prix,albert_park,-37.8497,144.968,Australia,2014-03-16,http://en.wikipedia.org/wiki/2014_Australian_Grand_Prix
+2014,2,2014_2,08:00:00Z,Malaysian Grand Prix,sepang,2.76083,101.738,Malaysia,2014-03-30,http://en.wikipedia.org/wiki/2014_Malaysian_Grand_Prix
+2014,3,2014_3,15:00:00Z,Bahrain Grand Prix,bahrain,26.0325,50.5106,Bahrain,2014-04-06,http://en.wikipedia.org/wiki/2014_Bahrain_Grand_Prix
+2014,4,2014_4,07:00:00Z,Chinese Grand Prix,shanghai,31.3389,121.22,China,2014-04-20,http://en.wikipedia.org/wiki/2014_Chinese_Grand_Prix
+2014,5,2014_5,12:00:00Z,Spanish Grand Prix,catalunya,41.57,2.26111,Spain,2014-05-11,http://en.wikipedia.org/wiki/2014_Spanish_Grand_Prix
+2014,6,2014_6,12:00:00Z,Monaco Grand Prix,monaco,43.7347,7.42056,Monaco,2014-05-25,http://en.wikipedia.org/wiki/2014_Monaco_Grand_Prix
+2014,7,2014_7,18:00:00Z,Canadian Grand Prix,villeneuve,45.5,-73.5228,Canada,2014-06-08,http://en.wikipedia.org/wiki/2014_Canadian_Grand_Prix
+2014,8,2014_8,12:00:00Z,Austrian Grand Prix,red_bull_ring,47.2197,14.7647,Austria,2014-06-22,http://en.wikipedia.org/wiki/2014_Austrian_Grand_Prix
+2014,9,2014_9,12:00:00Z,British Grand Prix,silverstone,52.0786,-1.01694,UK,2014-07-06,http://en.wikipedia.org/wiki/2014_British_Grand_Prix
+2014,10,2014_10,12:00:00Z,German Grand Prix,hockenheimring,49.3278,8.56583,Germany,2014-07-20,http://en.wikipedia.org/wiki/2014_German_Grand_Prix
+2014,11,2014_11,12:00:00Z,Hungarian Grand Prix,hungaroring,47.5789,19.2486,Hungary,2014-07-27,http://en.wikipedia.org/wiki/2014_Hungarian_Grand_Prix
+2014,12,2014_12,12:00:00Z,Belgian Grand Prix,spa,50.4372,5.97139,Belgium,2014-08-24,http://en.wikipedia.org/wiki/2014_Belgian_Grand_Prix
+2014,13,2014_13,12:00:00Z,Italian Grand Prix,monza,45.6156,9.28111,Italy,2014-09-07,http://en.wikipedia.org/wiki/2014_Italian_Grand_Prix
+2014,14,2014_14,12:00:00Z,Singapore Grand Prix,marina_bay,1.2914,103.864,Singapore,2014-09-21,http://en.wikipedia.org/wiki/2014_Singapore_Grand_Prix
+2014,15,2014_15,06:00:00Z,Japanese Grand Prix,suzuka,34.8431,136.541,Japan,2014-10-05,http://en.wikipedia.org/wiki/2014_Japanese_Grand_Prix
+2014,16,2014_16,11:00:00Z,Russian Grand Prix,sochi,43.4057,39.9578,Russia,2014-10-12,http://en.wikipedia.org/wiki/2014_Russian_Grand_Prix
+2014,17,2014_17,20:00:00Z,United States Grand Prix,americas,30.1328,-97.6411,USA,2014-11-02,http://en.wikipedia.org/wiki/2014_United_States_Grand_Prix
+2014,18,2014_18,16:00:00Z,Brazilian Grand Prix,interlagos,-23.7036,-46.6997,Brazil,2014-11-09,http://en.wikipedia.org/wiki/2014_Brazilian_Grand_Prix
+2014,19,2014_19,13:00:00Z,Abu Dhabi Grand Prix,yas_marina,24.4672,54.6031,UAE,2014-11-23,http://en.wikipedia.org/wiki/2014_Abu_Dhabi_Grand_Prix
+2015,1,2015_1,05:00:00Z,Australian Grand Prix,albert_park,-37.8497,144.968,Australia,2015-03-15,http://en.wikipedia.org/wiki/2015_Australian_Grand_Prix
+2015,2,2015_2,07:00:00Z,Malaysian Grand Prix,sepang,2.76083,101.738,Malaysia,2015-03-29,http://en.wikipedia.org/wiki/2015_Malaysian_Grand_Prix
+2015,3,2015_3,06:00:00Z,Chinese Grand Prix,shanghai,31.3389,121.22,China,2015-04-12,http://en.wikipedia.org/wiki/2015_Chinese_Grand_Prix
+2015,4,2015_4,15:00:00Z,Bahrain Grand Prix,bahrain,26.0325,50.5106,Bahrain,2015-04-19,http://en.wikipedia.org/wiki/2015_Bahrain_Grand_Prix
+2015,5,2015_5,12:00:00Z,Spanish Grand Prix,catalunya,41.57,2.26111,Spain,2015-05-10,http://en.wikipedia.org/wiki/2015_Spanish_Grand_Prix
+2015,6,2015_6,12:00:00Z,Monaco Grand Prix,monaco,43.7347,7.42056,Monaco,2015-05-24,http://en.wikipedia.org/wiki/2015_Monaco_Grand_Prix
+2015,7,2015_7,18:00:00Z,Canadian Grand Prix,villeneuve,45.5,-73.5228,Canada,2015-06-07,http://en.wikipedia.org/wiki/2015_Canadian_Grand_Prix
+2015,8,2015_8,12:00:00Z,Austrian Grand Prix,red_bull_ring,47.2197,14.7647,Austria,2015-06-21,http://en.wikipedia.org/wiki/2015_Austrian_Grand_Prix
+2015,9,2015_9,12:00:00Z,British Grand Prix,silverstone,52.0786,-1.01694,UK,2015-07-05,http://en.wikipedia.org/wiki/2015_British_Grand_Prix
+2015,10,2015_10,12:00:00Z,Hungarian Grand Prix,hungaroring,47.5789,19.2486,Hungary,2015-07-26,http://en.wikipedia.org/wiki/2015_Hungarian_Grand_Prix
+2015,11,2015_11,12:00:00Z,Belgian Grand Prix,spa,50.4372,5.97139,Belgium,2015-08-23,http://en.wikipedia.org/wiki/2015_Belgian_Grand_Prix
+2015,12,2015_12,12:00:00Z,Italian Grand Prix,monza,45.6156,9.28111,Italy,2015-09-06,http://en.wikipedia.org/wiki/2015_Italian_Grand_Prix
+2015,13,2015_13,12:00:00Z,Singapore Grand Prix,marina_bay,1.2914,103.864,Singapore,2015-09-20,http://en.wikipedia.org/wiki/2015_Singapore_Grand_Prix
+2015,14,2015_14,05:00:00Z,Japanese Grand Prix,suzuka,34.8431,136.541,Japan,2015-09-27,http://en.wikipedia.org/wiki/2015_Japanese_Grand_Prix
+2015,15,2015_15,11:00:00Z,Russian Grand Prix,sochi,43.4057,39.9578,Russia,2015-10-11,http://en.wikipedia.org/wiki/2015_Russian_Grand_Prix
+2015,16,2015_16,19:00:00Z,United States Grand Prix,americas,30.1328,-97.6411,USA,2015-10-25,http://en.wikipedia.org/wiki/2015_United_States_Grand_Prix
+2015,17,2015_17,19:00:00Z,Mexican Grand Prix,rodriguez,19.4042,-99.0907,Mexico,2015-11-01,http://en.wikipedia.org/wiki/2015_Mexican_Grand_Prix
+2015,18,2015_18,16:00:00Z,Brazilian Grand Prix,interlagos,-23.7036,-46.6997,Brazil,2015-11-15,http://en.wikipedia.org/wiki/2015_Brazilian_Grand_Prix
+2015,19,2015_19,13:00:00Z,Abu Dhabi Grand Prix,yas_marina,24.4672,54.6031,UAE,2015-11-29,http://en.wikipedia.org/wiki/2015_Abu_Dhabi_Grand_Prix
+2016,1,2016_1,05:00:00Z,Australian Grand Prix,albert_park,-37.8497,144.968,Australia,2016-03-20,http://en.wikipedia.org/wiki/2016_Australian_Grand_Prix
+2016,2,2016_2,15:00:00Z,Bahrain Grand Prix,bahrain,26.0325,50.5106,Bahrain,2016-04-03,http://en.wikipedia.org/wiki/2016_Bahrain_Grand_Prix
+2016,3,2016_3,06:00:00Z,Chinese Grand Prix,shanghai,31.3389,121.22,China,2016-04-17,http://en.wikipedia.org/wiki/2016_Chinese_Grand_Prix
+2016,4,2016_4,12:00:00Z,Russian Grand Prix,sochi,43.4057,39.9578,Russia,2016-05-01,http://en.wikipedia.org/wiki/2016_Russian_Grand_Prix
+2016,5,2016_5,12:00:00Z,Spanish Grand Prix,catalunya,41.57,2.26111,Spain,2016-05-15,http://en.wikipedia.org/wiki/2016_Spanish_Grand_Prix
+2016,6,2016_6,12:00:00Z,Monaco Grand Prix,monaco,43.7347,7.42056,Monaco,2016-05-29,http://en.wikipedia.org/wiki/2016_Monaco_Grand_Prix
+2016,7,2016_7,18:00:00Z,Canadian Grand Prix,villeneuve,45.5,-73.5228,Canada,2016-06-12,http://en.wikipedia.org/wiki/2016_Canadian_Grand_Prix
+2016,8,2016_8,13:00:00Z,European Grand Prix,baku,40.3725,49.8533,Azerbaijan,2016-06-19,http://en.wikipedia.org/wiki/2016_European_Grand_Prix
+2016,9,2016_9,12:00:00Z,Austrian Grand Prix,red_bull_ring,47.2197,14.7647,Austria,2016-07-03,http://en.wikipedia.org/wiki/2016_Austrian_Grand_Prix
+2016,10,2016_10,12:00:00Z,British Grand Prix,silverstone,52.0786,-1.01694,UK,2016-07-10,http://en.wikipedia.org/wiki/2016_British_Grand_Prix
+2016,11,2016_11,12:00:00Z,Hungarian Grand Prix,hungaroring,47.5789,19.2486,Hungary,2016-07-24,http://en.wikipedia.org/wiki/2016_Hungarian_Grand_Prix
+2016,12,2016_12,12:00:00Z,German Grand Prix,hockenheimring,49.3278,8.56583,Germany,2016-07-31,http://en.wikipedia.org/wiki/2016_German_Grand_Prix
+2016,13,2016_13,12:00:00Z,Belgian Grand Prix,spa,50.4372,5.97139,Belgium,2016-08-28,http://en.wikipedia.org/wiki/2016_Belgian_Grand_Prix
+2016,14,2016_14,12:00:00Z,Italian Grand Prix,monza,45.6156,9.28111,Italy,2016-09-04,http://en.wikipedia.org/wiki/2016_Italian_Grand_Prix
+2016,15,2016_15,12:00:00Z,Singapore Grand Prix,marina_bay,1.2914,103.864,Singapore,2016-09-18,http://en.wikipedia.org/wiki/2016_Singapore_Grand_Prix
+2016,16,2016_16,07:00:00Z,Malaysian Grand Prix,sepang,2.76083,101.738,Malaysia,2016-10-02,http://en.wikipedia.org/wiki/2016_Malaysian_Grand_Prix
+2016,17,2016_17,05:00:00Z,Japanese Grand Prix,suzuka,34.8431,136.541,Japan,2016-10-09,http://en.wikipedia.org/wiki/2016_Japanese_Grand_Prix
+2016,18,2016_18,19:00:00Z,United States Grand Prix,americas,30.1328,-97.6411,USA,2016-10-23,http://en.wikipedia.org/wiki/2016_United_States_Grand_Prix
+2016,19,2016_19,19:00:00Z,Mexican Grand Prix,rodriguez,19.4042,-99.0907,Mexico,2016-10-30,http://en.wikipedia.org/wiki/2016_Mexican_Grand_Prix
+2016,20,2016_20,16:00:00Z,Brazilian Grand Prix,interlagos,-23.7036,-46.6997,Brazil,2016-11-13,http://en.wikipedia.org/wiki/2016_Brazilian_Grand_Prix
+2016,21,2016_21,13:00:00Z,Abu Dhabi Grand Prix,yas_marina,24.4672,54.6031,UAE,2016-11-27,http://en.wikipedia.org/wiki/2016_Abu_Dhabi_Grand_Prix
+2017,1,2017_1,05:00:00Z,Australian Grand Prix,albert_park,-37.8497,144.968,Australia,2017-03-26,http://en.wikipedia.org/wiki/2017_Australian_Grand_Prix
+2017,2,2017_2,06:00:00Z,Chinese Grand Prix,shanghai,31.3389,121.22,China,2017-04-09,http://en.wikipedia.org/wiki/2017_Chinese_Grand_Prix
+2017,3,2017_3,15:00:00Z,Bahrain Grand Prix,bahrain,26.0325,50.5106,Bahrain,2017-04-16,http://en.wikipedia.org/wiki/2017_Bahrain_Grand_Prix
+2017,4,2017_4,12:00:00Z,Russian Grand Prix,sochi,43.4057,39.9578,Russia,2017-04-30,http://en.wikipedia.org/wiki/2017_Russian_Grand_Prix
+2017,5,2017_5,12:00:00Z,Spanish Grand Prix,catalunya,41.57,2.26111,Spain,2017-05-14,http://en.wikipedia.org/wiki/2017_Spanish_Grand_Prix
+2017,6,2017_6,12:00:00Z,Monaco Grand Prix,monaco,43.7347,7.42056,Monaco,2017-05-28,http://en.wikipedia.org/wiki/2017_Monaco_Grand_Prix
+2017,7,2017_7,18:00:00Z,Canadian Grand Prix,villeneuve,45.5,-73.5228,Canada,2017-06-11,http://en.wikipedia.org/wiki/2017_Canadian_Grand_Prix
+2017,8,2017_8,13:00:00Z,Azerbaijan Grand Prix,baku,40.3725,49.8533,Azerbaijan,2017-06-25,http://en.wikipedia.org/wiki/2017_Azerbaijan_Grand_Prix
+2017,9,2017_9,12:00:00Z,Austrian Grand Prix,red_bull_ring,47.2197,14.7647,Austria,2017-07-09,http://en.wikipedia.org/wiki/2017_Austrian_Grand_Prix
+2017,10,2017_10,12:00:00Z,British Grand Prix,silverstone,52.0786,-1.01694,UK,2017-07-16,http://en.wikipedia.org/wiki/2017_British_Grand_Prix
+2017,11,2017_11,12:00:00Z,Hungarian Grand Prix,hungaroring,47.5789,19.2486,Hungary,2017-07-30,http://en.wikipedia.org/wiki/2017_Hungarian_Grand_Prix
+2017,12,2017_12,12:00:00Z,Belgian Grand Prix,spa,50.4372,5.97139,Belgium,2017-08-27,http://en.wikipedia.org/wiki/2017_Belgian_Grand_Prix
+2017,13,2017_13,12:00:00Z,Italian Grand Prix,monza,45.6156,9.28111,Italy,2017-09-03,http://en.wikipedia.org/wiki/2017_Italian_Grand_Prix
+2017,14,2017_14,12:00:00Z,Singapore Grand Prix,marina_bay,1.2914,103.864,Singapore,2017-09-17,http://en.wikipedia.org/wiki/2017_Singapore_Grand_Prix
+2017,15,2017_15,07:00:00Z,Malaysian Grand Prix,sepang,2.76083,101.738,Malaysia,2017-10-01,http://en.wikipedia.org/wiki/2017_Malaysian_Grand_Prix
+2017,16,2017_16,05:00:00Z,Japanese Grand Prix,suzuka,34.8431,136.541,Japan,2017-10-08,http://en.wikipedia.org/wiki/2017_Japanese_Grand_Prix
+2017,17,2017_17,19:00:00Z,United States Grand Prix,americas,30.1328,-97.6411,USA,2017-10-22,http://en.wikipedia.org/wiki/2017_United_States_Grand_Prix
+2017,18,2017_18,19:00:00Z,Mexican Grand Prix,rodriguez,19.4042,-99.0907,Mexico,2017-10-29,http://en.wikipedia.org/wiki/2017_Mexican_Grand_Prix
+2017,19,2017_19,16:00:00Z,Brazilian Grand Prix,interlagos,-23.7036,-46.6997,Brazil,2017-11-12,http://en.wikipedia.org/wiki/2017_Brazilian_Grand_Prix
+2017,20,2017_20,13:00:00Z,Abu Dhabi Grand Prix,yas_marina,24.4672,54.6031,UAE,2017-11-26,http://en.wikipedia.org/wiki/2017_Abu_Dhabi_Grand_Prix
+2018,1,2018_1,05:10:00Z,Australian Grand Prix,albert_park,-37.8497,144.968,Australia,2018-03-25,http://en.wikipedia.org/wiki/2018_Australian_Grand_Prix
+2018,2,2018_2,15:10:00Z,Bahrain Grand Prix,bahrain,26.0325,50.5106,Bahrain,2018-04-08,http://en.wikipedia.org/wiki/2018_Bahrain_Grand_Prix
+2018,3,2018_3,06:10:00Z,Chinese Grand Prix,shanghai,31.3389,121.22,China,2018-04-15,http://en.wikipedia.org/wiki/2018_Chinese_Grand_Prix
+2018,4,2018_4,12:10:00Z,Azerbaijan Grand Prix,baku,40.3725,49.8533,Azerbaijan,2018-04-29,http://en.wikipedia.org/wiki/2018_Azerbaijan_Grand_Prix
+2018,5,2018_5,13:10:00Z,Spanish Grand Prix,catalunya,41.57,2.26111,Spain,2018-05-13,http://en.wikipedia.org/wiki/2018_Spanish_Grand_Prix
+2018,6,2018_6,13:10:00Z,Monaco Grand Prix,monaco,43.7347,7.42056,Monaco,2018-05-27,http://en.wikipedia.org/wiki/2018_Monaco_Grand_Prix
+2018,7,2018_7,18:10:00Z,Canadian Grand Prix,villeneuve,45.5,-73.5228,Canada,2018-06-10,http://en.wikipedia.org/wiki/2018_Canadian_Grand_Prix
+2018,8,2018_8,14:10:00Z,French Grand Prix,ricard,43.2506,5.79167,France,2018-06-24,http://en.wikipedia.org/wiki/2018_French_Grand_Prix
+2018,9,2018_9,13:10:00Z,Austrian Grand Prix,red_bull_ring,47.2197,14.7647,Austria,2018-07-01,http://en.wikipedia.org/wiki/2018_Austrian_Grand_Prix
+2018,10,2018_10,13:10:00Z,British Grand Prix,silverstone,52.0786,-1.01694,UK,2018-07-08,http://en.wikipedia.org/wiki/2018_British_Grand_Prix
+2018,11,2018_11,13:10:00Z,German Grand Prix,hockenheimring,49.3278,8.56583,Germany,2018-07-22,http://en.wikipedia.org/wiki/2018_German_Grand_Prix
+2018,12,2018_12,13:10:00Z,Hungarian Grand Prix,hungaroring,47.5789,19.2486,Hungary,2018-07-29,http://en.wikipedia.org/wiki/2018_Hungarian_Grand_Prix
+2018,13,2018_13,13:10:00Z,Belgian Grand Prix,spa,50.4372,5.97139,Belgium,2018-08-26,http://en.wikipedia.org/wiki/2018_Belgian_Grand_Prix
+2018,14,2018_14,13:10:00Z,Italian Grand Prix,monza,45.6156,9.28111,Italy,2018-09-02,http://en.wikipedia.org/wiki/2018_Italian_Grand_Prix
+2018,15,2018_15,12:10:00Z,Singapore Grand Prix,marina_bay,1.2914,103.864,Singapore,2018-09-16,http://en.wikipedia.org/wiki/2018_Singapore_Grand_Prix
+2018,16,2018_16,11:10:00Z,Russian Grand Prix,sochi,43.4057,39.9578,Russia,2018-09-30,http://en.wikipedia.org/wiki/2018_Russian_Grand_Prix
+2018,17,2018_17,05:10:00Z,Japanese Grand Prix,suzuka,34.8431,136.541,Japan,2018-10-07,http://en.wikipedia.org/wiki/2018_Japanese_Grand_Prix
+2018,18,2018_18,18:10:00Z,United States Grand Prix,americas,30.1328,-97.6411,USA,2018-10-21,http://en.wikipedia.org/wiki/2018_United_States_Grand_Prix
+2018,19,2018_19,19:10:00Z,Mexican Grand Prix,rodriguez,19.4042,-99.0907,Mexico,2018-10-28,http://en.wikipedia.org/wiki/2018_Mexican_Grand_Prix
+2018,20,2018_20,17:10:00Z,Brazilian Grand Prix,interlagos,-23.7036,-46.6997,Brazil,2018-11-11,http://en.wikipedia.org/wiki/2018_Brazilian_Grand_Prix
+2018,21,2018_21,13:10:00Z,Abu Dhabi Grand Prix,yas_marina,24.4672,54.6031,UAE,2018-11-25,http://en.wikipedia.org/wiki/2018_Abu_Dhabi_Grand_Prix
+2019,1,2019_1,05:10:00Z,Australian Grand Prix,albert_park,-37.8497,144.968,Australia,2019-03-17,http://en.wikipedia.org/wiki/2019_Australian_Grand_Prix
+2019,2,2019_2,15:10:00Z,Bahrain Grand Prix,bahrain,26.0325,50.5106,Bahrain,2019-03-31,http://en.wikipedia.org/wiki/2019_Bahrain_Grand_Prix
+2019,3,2019_3,06:10:00Z,Chinese Grand Prix,shanghai,31.3389,121.22,China,2019-04-14,http://en.wikipedia.org/wiki/2019_Chinese_Grand_Prix
+2019,4,2019_4,12:10:00Z,Azerbaijan Grand Prix,baku,40.3725,49.8533,Azerbaijan,2019-04-28,http://en.wikipedia.org/wiki/2019_Azerbaijan_Grand_Prix
+2019,5,2019_5,13:10:00Z,Spanish Grand Prix,catalunya,41.57,2.26111,Spain,2019-05-12,http://en.wikipedia.org/wiki/2019_Spanish_Grand_Prix
+2019,6,2019_6,13:10:00Z,Monaco Grand Prix,monaco,43.7347,7.42056,Monaco,2019-05-26,http://en.wikipedia.org/wiki/2019_Monaco_Grand_Prix
+2019,7,2019_7,18:10:00Z,Canadian Grand Prix,villeneuve,45.5,-73.5228,Canada,2019-06-09,http://en.wikipedia.org/wiki/2019_Canadian_Grand_Prix
+2019,8,2019_8,13:10:00Z,French Grand Prix,ricard,43.2506,5.79167,France,2019-06-23,http://en.wikipedia.org/wiki/2019_French_Grand_Prix
+2019,9,2019_9,13:10:00Z,Austrian Grand Prix,red_bull_ring,47.2197,14.7647,Austria,2019-06-30,http://en.wikipedia.org/wiki/2019_Austrian_Grand_Prix
+2019,10,2019_10,13:10:00Z,British Grand Prix,silverstone,52.0786,-1.01694,UK,2019-07-14,http://en.wikipedia.org/wiki/2019_British_Grand_Prix
+2019,11,2019_11,13:10:00Z,German Grand Prix,hockenheimring,49.3278,8.56583,Germany,2019-07-28,http://en.wikipedia.org/wiki/2019_German_Grand_Prix
+2019,12,2019_12,13:10:00Z,Hungarian Grand Prix,hungaroring,47.5789,19.2486,Hungary,2019-08-04,http://en.wikipedia.org/wiki/2019_Hungarian_Grand_Prix
+2019,13,2019_13,13:10:00Z,Belgian Grand Prix,spa,50.4372,5.97139,Belgium,2019-09-01,http://en.wikipedia.org/wiki/2019_Belgian_Grand_Prix
+2019,14,2019_14,13:10:00Z,Italian Grand Prix,monza,45.6156,9.28111,Italy,2019-09-08,http://en.wikipedia.org/wiki/2019_Italian_Grand_Prix
+2019,15,2019_15,12:10:00Z,Singapore Grand Prix,marina_bay,1.2914,103.864,Singapore,2019-09-22,http://en.wikipedia.org/wiki/2019_Singapore_Grand_Prix
+2019,16,2019_16,11:10:00Z,Russian Grand Prix,sochi,43.4057,39.9578,Russia,2019-09-29,http://en.wikipedia.org/wiki/2019_Russian_Grand_Prix
+2019,17,2019_17,05:10:00Z,Japanese Grand Prix,suzuka,34.8431,136.541,Japan,2019-10-13,http://en.wikipedia.org/wiki/2019_Japanese_Grand_Prix
+2019,18,2019_18,19:10:00Z,Mexican Grand Prix,rodriguez,19.4042,-99.0907,Mexico,2019-10-27,http://en.wikipedia.org/wiki/2019_Mexican_Grand_Prix
+2019,19,2019_19,19:10:00Z,United States Grand Prix,americas,30.1328,-97.6411,USA,2019-11-03,http://en.wikipedia.org/wiki/2019_United_States_Grand_Prix
+2019,20,2019_20,17:10:00Z,Brazilian Grand Prix,interlagos,-23.7036,-46.6997,Brazil,2019-11-17,http://en.wikipedia.org/wiki/2019_Brazilian_Grand_Prix
+2019,21,2019_21,13:10:00Z,Abu Dhabi Grand Prix,yas_marina,24.4672,54.6031,UAE,2019-12-01,http://en.wikipedia.org/wiki/2019_Abu_Dhabi_Grand_Prix
+2020,1,2020_1,13:10:00Z,Austrian Grand Prix,red_bull_ring,47.2197,14.7647,Austria,2020-07-05,http://en.wikipedia.org/wiki/2020_Austrian_Grand_Prix
+2020,2,2020_2,13:10:00Z,Styrian Grand Prix,red_bull_ring,47.2197,14.7647,Austria,2020-07-12,http://en.wikipedia.org/wiki/2020_Styrian_Grand_Prix
+2020,3,2020_3,13:10:00Z,Hungarian Grand Prix,hungaroring,47.5789,19.2486,Hungary,2020-07-19,http://en.wikipedia.org/wiki/2020_Hungarian_Grand_Prix
+2020,4,2020_4,13:10:00Z,British Grand Prix,silverstone,52.0786,-1.01694,UK,2020-08-02,http://en.wikipedia.org/wiki/2020_British_Grand_Prix
+2020,5,2020_5,13:10:00Z,70th Anniversary Grand Prix,silverstone,52.0786,-1.01694,UK,2020-08-09,http://en.wikipedia.org/wiki/70th_Anniversary_Grand_Prix
+2020,6,2020_6,13:10:00Z,Spanish Grand Prix,catalunya,41.57,2.26111,Spain,2020-08-16,http://en.wikipedia.org/wiki/2020_Spanish_Grand_Prix
+2020,7,2020_7,13:10:00Z,Belgian Grand Prix,spa,50.4372,5.97139,Belgium,2020-08-30,http://en.wikipedia.org/wiki/2020_Belgian_Grand_Prix
+2020,8,2020_8,13:10:00Z,Italian Grand Prix,monza,45.6156,9.28111,Italy,2020-09-06,http://en.wikipedia.org/wiki/2020_Italian_Grand_Prix
+2020,9,2020_9,13:10:00Z,Tuscan Grand Prix,mugello,43.9975,11.3719,Italy,2020-09-13,http://en.wikipedia.org/wiki/2020_Tuscan_Grand_Prix
+2020,10,2020_10,11:10:00Z,Russian Grand Prix,sochi,43.4057,39.9578,Russia,2020-09-27,http://en.wikipedia.org/wiki/2020_Russian_Grand_Prix
+2020,11,2020_11,13:10:00Z,Eifel Grand Prix,nurburgring,50.3356,6.9475,Germany,2020-10-11,http://en.wikipedia.org/wiki/2020_Eifel_Grand_Prix
+2020,12,2020_12,12:10:00Z,Portuguese Grand Prix,portimao,37.227,-8.6267,Portugal,2020-10-25,http://en.wikipedia.org/wiki/2020_Portuguese_Grand_Prix
+2020,13,2020_13,12:10:00Z,Emilia Romagna Grand Prix,imola,44.3439,11.7167,Italy,2020-11-01,http://en.wikipedia.org/wiki/2020_Emilia_Romagna_Grand_Prix
+2020,14,2020_14,10:10:00Z,Turkish Grand Prix,istanbul,40.9517,29.405,Turkey,2020-11-15,http://en.wikipedia.org/wiki/2020_Turkish_Grand_Prix
+2020,15,2020_15,14:10:00Z,Bahrain Grand Prix,bahrain,26.0325,50.5106,Bahrain,2020-11-29,http://en.wikipedia.org/wiki/2020_Bahrain_Grand_Prix
+2020,16,2020_16,17:10:00Z,Sakhir Grand Prix,bahrain,26.0325,50.5106,Bahrain,2020-12-06,http://en.wikipedia.org/wiki/2020_Sakhir_Grand_Prix
+2020,17,2020_17,13:10:00Z,Abu Dhabi Grand Prix,yas_marina,24.4672,54.6031,UAE,2020-12-13,http://en.wikipedia.org/wiki/2020_Abu_Dhabi_Grand_Prix
+2021,1,2021_1,15:00:00Z,Bahrain Grand Prix,bahrain,26.0325,50.5106,Bahrain,2021-03-28,http://en.wikipedia.org/wiki/2021_Bahrain_Grand_Prix
+2021,2,2021_2,13:00:00Z,Emilia Romagna Grand Prix,imola,44.3439,11.7167,Italy,2021-04-18,http://en.wikipedia.org/wiki/2021_Emilia_Romagna_Grand_Prix
+2021,3,2021_3,14:00:00Z,Portuguese Grand Prix,portimao,37.227,-8.6267,Portugal,2021-05-02,http://en.wikipedia.org/wiki/2021_Portuguese_Grand_Prix
+2021,4,2021_4,13:00:00Z,Spanish Grand Prix,catalunya,41.57,2.26111,Spain,2021-05-09,http://en.wikipedia.org/wiki/2021_Spanish_Grand_Prix
+2021,5,2021_5,13:00:00Z,Monaco Grand Prix,monaco,43.7347,7.42056,Monaco,2021-05-23,http://en.wikipedia.org/wiki/2021_Monaco_Grand_Prix
+2021,6,2021_6,12:00:00Z,Azerbaijan Grand Prix,baku,40.3725,49.8533,Azerbaijan,2021-06-06,http://en.wikipedia.org/wiki/2021_Azerbaijan_Grand_Prix
+2021,7,2021_7,13:00:00Z,French Grand Prix,ricard,43.2506,5.79167,France,2021-06-20,http://en.wikipedia.org/wiki/2021_French_Grand_Prix
+2021,8,2021_8,13:00:00Z,Styrian Grand Prix,red_bull_ring,47.2197,14.7647,Austria,2021-06-27,http://en.wikipedia.org/wiki/2021_Styrian_Grand_Prix
+2021,9,2021_9,13:00:00Z,Austrian Grand Prix,red_bull_ring,47.2197,14.7647,Austria,2021-07-04,http://en.wikipedia.org/wiki/2021_Austrian_Grand_Prix
+2021,10,2021_10,14:00:00Z,British Grand Prix,silverstone,52.0786,-1.01694,UK,2021-07-18,http://en.wikipedia.org/wiki/2021_British_Grand_Prix
+2021,11,2021_11,13:00:00Z,Hungarian Grand Prix,hungaroring,47.5789,19.2486,Hungary,2021-08-01,http://en.wikipedia.org/wiki/2021_Hungarian_Grand_Prix
+2021,12,2021_12,13:00:00Z,Belgian Grand Prix,spa,50.4372,5.97139,Belgium,2021-08-29,http://en.wikipedia.org/wiki/2021_Belgian_Grand_Prix
+2021,13,2021_13,13:00:00Z,Dutch Grand Prix,zandvoort,52.3888,4.54092,Netherlands,2021-09-05,http://en.wikipedia.org/wiki/2021_Dutch_Grand_Prix
+2021,14,2021_14,13:00:00Z,Italian Grand Prix,monza,45.6156,9.28111,Italy,2021-09-12,http://en.wikipedia.org/wiki/2021_Italian_Grand_Prix
+2021,15,2021_15,12:00:00Z,Russian Grand Prix,sochi,43.4057,39.9578,Russia,2021-09-26,http://en.wikipedia.org/wiki/2021_Russian_Grand_Prix
+2021,16,2021_16,12:00:00Z,Turkish Grand Prix,istanbul,40.9517,29.405,Turkey,2021-10-10,http://en.wikipedia.org/wiki/2021_Turkish_Grand_Prix
+2021,17,2021_17,19:00:00Z,United States Grand Prix,americas,30.1328,-97.6411,USA,2021-10-24,http://en.wikipedia.org/wiki/2021_United_States_Grand_Prix
+2021,18,2021_18,19:00:00Z,Mexico City Grand Prix,rodriguez,19.4042,-99.0907,Mexico,2021-11-07,http://en.wikipedia.org/wiki/2021_Mexican_Grand_Prix
+2021,19,2021_19,17:00:00Z,São Paulo Grand Prix,interlagos,-23.7036,-46.6997,Brazil,2021-11-14,http://en.wikipedia.org/wiki/2021_S%C3%A3o_Paulo_Grand_Prix
+2021,20,2021_20,14:00:00Z,Qatar Grand Prix,losail,25.49,51.4542,Qatar,2021-11-21,http://en.wikipedia.org/wiki/2021_Qatar_Grand_Prix
+2021,21,2021_21,17:30:00Z,Saudi Arabian Grand Prix,jeddah,21.6319,39.1044,Saudi Arabia,2021-12-05,http://en.wikipedia.org/wiki/2021_Saudi_Arabian_Grand_Prix
+2021,22,2021_22,13:00:00Z,Abu Dhabi Grand Prix,yas_marina,24.4672,54.6031,UAE,2021-12-12,http://en.wikipedia.org/wiki/2021_Abu_Dhabi_Grand_Prix
+2022,1,2022_1,15:00:00Z,Bahrain Grand Prix,bahrain,26.0325,50.5106,Bahrain,2022-03-20,http://en.wikipedia.org/wiki/2022_Bahrain_Grand_Prix
+2022,2,2022_2,17:00:00Z,Saudi Arabian Grand Prix,jeddah,21.6319,39.1044,Saudi Arabia,2022-03-27,http://en.wikipedia.org/wiki/2022_Saudi_Arabian_Grand_Prix
+2022,3,2022_3,05:00:00Z,Australian Grand Prix,albert_park,-37.8497,144.968,Australia,2022-04-10,http://en.wikipedia.org/wiki/2022_Australian_Grand_Prix
+2022,4,2022_4,13:00:00Z,Emilia Romagna Grand Prix,imola,44.3439,11.7167,Italy,2022-04-24,http://en.wikipedia.org/wiki/2022_Emilia_Romagna_Grand_Prix
+2022,5,2022_5,19:30:00Z,Miami Grand Prix,miami,25.9581,-80.2389,USA,2022-05-08,http://en.wikipedia.org/wiki/2022_Miami_Grand_Prix
+2022,6,2022_6,13:00:00Z,Spanish Grand Prix,catalunya,41.57,2.26111,Spain,2022-05-22,http://en.wikipedia.org/wiki/2022_Spanish_Grand_Prix
+2022,7,2022_7,13:00:00Z,Monaco Grand Prix,monaco,43.7347,7.42056,Monaco,2022-05-29,http://en.wikipedia.org/wiki/2022_Monaco_Grand_Prix
+2022,8,2022_8,11:00:00Z,Azerbaijan Grand Prix,baku,40.3725,49.8533,Azerbaijan,2022-06-12,http://en.wikipedia.org/wiki/2022_Azerbaijan_Grand_Prix
+2022,9,2022_9,18:00:00Z,Canadian Grand Prix,villeneuve,45.5,-73.5228,Canada,2022-06-19,http://en.wikipedia.org/wiki/2022_Canadian_Grand_Prix
+2022,10,2022_10,14:00:00Z,British Grand Prix,silverstone,52.0786,-1.01694,UK,2022-07-03,http://en.wikipedia.org/wiki/2022_British_Grand_Prix
+2022,11,2022_11,13:00:00Z,Austrian Grand Prix,red_bull_ring,47.2197,14.7647,Austria,2022-07-10,http://en.wikipedia.org/wiki/2022_Austrian_Grand_Prix
+2022,12,2022_12,13:00:00Z,French Grand Prix,ricard,43.2506,5.79167,France,2022-07-24,http://en.wikipedia.org/wiki/2022_French_Grand_Prix
+2022,13,2022_13,13:00:00Z,Hungarian Grand Prix,hungaroring,47.5789,19.2486,Hungary,2022-07-31,http://en.wikipedia.org/wiki/2022_Hungarian_Grand_Prix
+2022,14,2022_14,13:00:00Z,Belgian Grand Prix,spa,50.4372,5.97139,Belgium,2022-08-28,http://en.wikipedia.org/wiki/2022_Belgian_Grand_Prix
+2022,15,2022_15,13:00:00Z,Dutch Grand Prix,zandvoort,52.3888,4.54092,Netherlands,2022-09-04,http://en.wikipedia.org/wiki/2022_Dutch_Grand_Prix
+2022,16,2022_16,13:00:00Z,Italian Grand Prix,monza,45.6156,9.28111,Italy,2022-09-11,http://en.wikipedia.org/wiki/2022_Italian_Grand_Prix
+2022,17,2022_17,12:00:00Z,Singapore Grand Prix,marina_bay,1.2914,103.864,Singapore,2022-10-02,http://en.wikipedia.org/wiki/2022_Singapore_Grand_Prix
+2022,18,2022_18,05:00:00Z,Japanese Grand Prix,suzuka,34.8431,136.541,Japan,2022-10-09,http://en.wikipedia.org/wiki/2022_Japanese_Grand_Prix
+2022,19,2022_19,19:00:00Z,United States Grand Prix,americas,30.1328,-97.6411,USA,2022-10-23,http://en.wikipedia.org/wiki/2022_United_States_Grand_Prix
+2022,20,2022_20,20:00:00Z,Mexico City Grand Prix,rodriguez,19.4042,-99.0907,Mexico,2022-10-30,http://en.wikipedia.org/wiki/2022_Mexican_Grand_Prix
+2022,21,2022_21,18:00:00Z,Brazilian Grand Prix,interlagos,-23.7036,-46.6997,Brazil,2022-11-13,http://en.wikipedia.org/wiki/2022_Brazilian_Grand_Prix
+2022,22,2022_22,13:00:00Z,Abu Dhabi Grand Prix,yas_marina,24.4672,54.6031,UAE,2022-11-20,http://en.wikipedia.org/wiki/2022_Abu_Dhabi_Grand_Prix
+2023,1,2023_1,15:00:00Z,Bahrain Grand Prix,bahrain,26.0325,50.5106,Bahrain,2023-03-05,https://en.wikipedia.org/wiki/2023_Bahrain_Grand_Prix
+2023,2,2023_2,17:00:00Z,Saudi Arabian Grand Prix,jeddah,21.6319,39.1044,Saudi Arabia,2023-03-19,https://en.wikipedia.org/wiki/2023_Saudi_Arabian_Grand_Prix
+2023,3,2023_3,05:00:00Z,Australian Grand Prix,albert_park,-37.8497,144.968,Australia,2023-04-02,https://en.wikipedia.org/wiki/2023_Australian_Grand_Prix
+2023,4,2023_4,11:00:00Z,Azerbaijan Grand Prix,baku,40.3725,49.8533,Azerbaijan,2023-04-30,https://en.wikipedia.org/wiki/2023_Azerbaijan_Grand_Prix
+2023,5,2023_5,19:30:00Z,Miami Grand Prix,miami,25.9581,-80.2389,USA,2023-05-07,https://en.wikipedia.org/wiki/2023_Miami_Grand_Prix
+2023,6,2023_6,13:00:00Z,Emilia Romagna Grand Prix,imola,44.3439,11.7167,Italy,2023-05-21,https://en.wikipedia.org/wiki/2023_Emilia_Romagna_Grand_Prix
+2023,7,2023_7,13:00:00Z,Monaco Grand Prix,monaco,43.7347,7.42056,Monaco,2023-05-28,https://en.wikipedia.org/wiki/2023_Monaco_Grand_Prix
+2023,8,2023_8,13:00:00Z,Spanish Grand Prix,catalunya,41.57,2.26111,Spain,2023-06-04,https://en.wikipedia.org/wiki/2023_Spanish_Grand_Prix
+2023,9,2023_9,18:00:00Z,Canadian Grand Prix,villeneuve,45.5,-73.5228,Canada,2023-06-18,https://en.wikipedia.org/wiki/2023_Canadian_Grand_Prix
+2023,10,2023_10,13:00:00Z,Austrian Grand Prix,red_bull_ring,47.2197,14.7647,Austria,2023-07-02,https://en.wikipedia.org/wiki/2023_Austrian_Grand_Prix
+2023,11,2023_11,14:00:00Z,British Grand Prix,silverstone,52.0786,-1.01694,UK,2023-07-09,https://en.wikipedia.org/wiki/2023_British_Grand_Prix
+2023,12,2023_12,13:00:00Z,Hungarian Grand Prix,hungaroring,47.5789,19.2486,Hungary,2023-07-23,https://en.wikipedia.org/wiki/2023_Hungarian_Grand_Prix
+2023,13,2023_13,13:00:00Z,Belgian Grand Prix,spa,50.4372,5.97139,Belgium,2023-07-30,https://en.wikipedia.org/wiki/2023_Belgian_Grand_Prix
+2023,14,2023_14,13:00:00Z,Dutch Grand Prix,zandvoort,52.3888,4.54092,Netherlands,2023-08-27,https://en.wikipedia.org/wiki/2023_Dutch_Grand_Prix
+2023,15,2023_15,13:00:00Z,Italian Grand Prix,monza,45.6156,9.28111,Italy,2023-09-03,https://en.wikipedia.org/wiki/2023_Italian_Grand_Prix
+2023,16,2023_16,12:00:00Z,Singapore Grand Prix,marina_bay,1.2914,103.864,Singapore,2023-09-17,https://en.wikipedia.org/wiki/2023_Singapore_Grand_Prix
+2023,17,2023_17,05:00:00Z,Japanese Grand Prix,suzuka,34.8431,136.541,Japan,2023-09-24,https://en.wikipedia.org/wiki/2023_Japanese_Grand_Prix
+2023,18,2023_18,14:00:00Z,Qatar Grand Prix,losail,25.49,51.4542,Qatar,2023-10-08,https://en.wikipedia.org/wiki/2023_Qatar_Grand_Prix
+2023,19,2023_19,19:00:00Z,United States Grand Prix,americas,30.1328,-97.6411,USA,2023-10-22,https://en.wikipedia.org/wiki/2023_United_States_Grand_Prix
+2023,20,2023_20,20:00:00Z,Mexico City Grand Prix,rodriguez,19.4042,-99.0907,Mexico,2023-10-29,https://en.wikipedia.org/wiki/2023_Mexico_City_Grand_Prix
+2023,21,2023_21,17:00:00Z,São Paulo Grand Prix,interlagos,-23.7036,-46.6997,Brazil,2023-11-05,https://en.wikipedia.org/wiki/2023_S%C3%A3o_Paulo_Grand_Prix
+2023,22,2023_22,06:00:00Z,Las Vegas Grand Prix,vegas,36.1147,-115.173,United States,2023-11-19,https://en.wikipedia.org/wiki/2023_Las_Vegas_Grand_Prix
+2023,23,2023_23,13:00:00Z,Abu Dhabi Grand Prix,yas_marina,24.4672,54.6031,UAE,2023-11-26,https://en.wikipedia.org/wiki/2023_Abu_Dhabi_Grand_Prix
